@@ -1,5 +1,5 @@
 # Association-Rule-Learning-
-Market Basket Optimization in python.
+## Market Basket Optimization in python.
 
 A simple definition is "People who bought this product also bought this product".
 
